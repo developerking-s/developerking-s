@@ -22,7 +22,7 @@ Instruções passo a passo sobre como configurar o ambiente de desenvolvimento l
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/developerking-s/site.git
 
 # Entre no diretório do projeto
 cd nome-do-projeto
