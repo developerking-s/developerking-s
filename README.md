@@ -1,4 +1,3 @@
-<picture> 
 <h3 align="center">Olá sou o King</b>, and Sou um Developer</h3>
 <div align="center">
     <a align="center" href="https://developerking-s.git" style="padding: 0.5rem; border-radius: 0.25rem; margin: 0 auto; border: 1px solid #fff; color: #fff; text-decoration: none;">Veja o meu Site ↗</a>
@@ -18,7 +17,7 @@
         <img alt="stats2" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerking-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&bg_color=00000000" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=fmgoliveira&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=developerking-s&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=developerking-s&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" />
         <img alt="stats3" src="https://github-profile-trophy.vercel.app?username=developerking-s&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" />
     </picture>
@@ -29,7 +28,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerking-s/developerking-s/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerking-s/developerking-s/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/developerking-s/fmgoliveira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/developerking-s/developerking-s/output/github-snake.svg" />
 </picture>
 
 ###
