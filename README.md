@@ -1,31 +1,11 @@
-# Nome do Projeto
+Olá o meu nome é developer_king sou um programador que tem o sonho de se tornar famoso!
 
-Uma breve descrição do projeto, o que ele faz e seu propósito.
+Meus Stats:
+https://github-readme-stats.vercel.app/api?username={developerking-s}&theme=blue-green
 
-## Sumário
-
-- [Descrição](#descrição)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
-- [Agradecimentos](#agradecimentos)
-
-## Descrição
-
-Uma descrição mais detalhada do projeto e suas funcionalidades principais. Adicione capturas de tela ou GIFs para ilustrar melhor o que o projeto faz.
-
-## Instalação
-
-Instruções passo a passo sobre como configurar o ambiente de desenvolvimento local. 
-
-```bash
-# Clone o repositório
-git clone https://github.com/developerking-s/site.git
-
-# Entre no diretório do projeto
-cd nome-do-projeto
-
-# Instale as dependências
-npm install> 
+Linguagens que Sei:
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+ 
