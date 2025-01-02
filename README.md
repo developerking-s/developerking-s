@@ -1,8 +1,3 @@
-<picture>
-      <source media="(prefers-color-scheme: purple)" srcset="" style="border-radius: .5rem; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" />
-  <source media="(prefers-color-scheme: light)" srcset="" style="filter: invert(1); border-radius: .5rem; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" />
-  <img alt="banner" src="" style="border-radius: .5rem; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" />
-  <picture>  
 <h3 align="center">Olá sou o King</b>, and Sou um Developer</h3>
 <div align="center">
     <a align="center" href="https://developerking-s.git" style="padding: 0.5rem; border-radius: 0.25rem; margin: 0 auto; border: 1px solid #fff; color: #fff; text-decoration: none;">Veja o meu Site ↗</a>
