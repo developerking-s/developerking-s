@@ -1,6 +1,6 @@
-<h3 align="center">Olá sou o King</b>, and Sou um Developer</h3>
+<h3 align="center">Hi my name is King</b>, Front End and Developer</h3>
 <div align="center">
-    <a align="center" href="https://developerking.vercel.app" style="padding: 0.5rem; border-radius: 0.25rem; margin: 0 auto; border: 1px solid #fff; color: #fff; text-decoration: none;">Veja o meu Site ↗</a>
+    <a align="center" href="https://developerking.netlify.app" style="padding: 0.5rem; border-radius: 0.25rem; margin: 0 auto; border: 1px solid #fff; color: #fff; text-decoration: none;">Veja o meu Site ↗</a>
 </div>
 
 ###
@@ -39,6 +39,6 @@
 ###
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=developerking-s&icon=0&color=12" />
+    <img src="https://visitcount.itsvg.in/api?id=developerking-s=&icon=0&color=12" />
 </div>
  
