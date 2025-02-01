@@ -25,7 +25,7 @@
 
 ###
 
-### 💻 Tech:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,react,tailwind)
+### 💻 Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,react,tailwind,github,replit,vscode)
 
 
